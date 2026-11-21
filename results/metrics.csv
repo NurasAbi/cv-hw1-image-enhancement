@@ -1,0 +1,26 @@
+image,method,PSNR,SSIM,MAE
+board1,baseline,18.6381,0.6312,23.4359
+board1,stretch_lum,20.3138,0.5296,22.0340
+board1,hist_eq_lab,12.9122,0.2189,45.4926
+board1,stretch_nlm,20.6739,0.9390,22.1726
+board1,stretch_rgb (extra),20.1961,0.4433,21.4409
+board2,baseline,20.0482,0.6299,18.3998
+board2,stretch_lum,21.7569,0.5337,17.7943
+board2,hist_eq_lab,14.6653,0.2116,39.2584
+board2,stretch_nlm,22.2669,0.9350,17.6655
+board2,stretch_rgb (extra),22.0555,0.4380,16.3388
+board3,baseline,19.0200,0.6310,22.9554
+board3,stretch_lum,23.6528,0.5358,13.2532
+board3,hist_eq_lab,14.3184,0.2519,39.0955
+board3,stretch_nlm,24.7142,0.9302,11.6115
+board3,stretch_rgb (extra),22.6023,0.4585,15.2167
+night_street,baseline,18.8607,0.6166,24.5428
+night_street,stretch_lum,24.8642,0.6096,11.9934
+night_street,hist_eq_lab,14.6014,0.3549,38.3829
+night_street,stretch_nlm,25.9591,0.8263,10.6285
+night_street,stretch_rgb (extra),24.5169,0.4982,12.2478
+room_dark,baseline,17.9633,0.5694,27.0525
+room_dark,stretch_lum,22.6215,0.4965,15.6116
+room_dark,hist_eq_lab,15.6019,0.2928,33.6573
+room_dark,stretch_nlm,23.5715,0.8619,14.0186
+room_dark,stretch_rgb (extra),21.6565,0.3915,17.4821
